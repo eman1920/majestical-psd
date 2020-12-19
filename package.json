@@ -1,0 +1,16 @@
+{
+    "name": "majestic",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "homepage": "https://eman1920.github.io/majestical-psd",
+    "deploy": "gh-pages -d MAJESTIC",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gh-pages": "^3.1.0"
+    }
+}
